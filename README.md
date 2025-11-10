@@ -9,8 +9,6 @@ It simulates a minimal recommendation workflow without requiring external servic
 
 ## Features
 
-## Features
-
 ✔ Mock product dataset (5 items, each with name/description/vibes)  
 ✔ Create embeddings using `sentence-transformers/all-MiniLM-L6-v2`  
 (OpenAI free tier not applicable for me)   
