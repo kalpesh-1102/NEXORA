@@ -94,16 +94,6 @@ Below is a preview of the Streamlit interface:
 
 ---
 
-## File Structure
-
-/project-root
-│── vibe_matcher.ipynb
-│── app.py
-│── README.md
-└── requirements.txt
-
----
-
 # Final Submission Checklist
 
 - Notebook runs top-to-bottom without errors  
