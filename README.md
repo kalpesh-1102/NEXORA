@@ -12,7 +12,8 @@ It simulates a minimal recommendation workflow without requiring external servic
 ## Features
 
 ✔ Mock product dataset (5 items, each with name/description/vibes)  
-✔ Create embeddings using `sentence-transformers/all-MiniLM-L6-v2` (OpenAI free tier not applicable for me)  
+✔ Create embeddings using `sentence-transformers/all-MiniLM-L6-v2`  
+(OpenAI free tier not applicable for me)    
 ✔ Query to encode to cosine similarity ranking  
 ✔ Returns top-N items with similarity scores  
 ✔ Basic evaluation (score > 0.7 → “good match”)  
