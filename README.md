@@ -78,7 +78,8 @@ A simple UI to interact with the vibe-matcher.
 
 Below is a preview of the Streamlit interface:
 
-<img src="screenshots/ui.png" width="600"/>
+<img src="screenshots/ui.PNG" alt="UI" width="600">
+
 
 
 ---
